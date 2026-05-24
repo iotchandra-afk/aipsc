@@ -79,13 +79,13 @@ Why users will trust a probabilistic system.
 
 ## The Guardrails (M5)
 
-**What breaks when this scales — and what compounds.**
+What breaks when this scales — and what compounds.
 
-- **Compounding System:** [describe feedback loops]
-- **Governance Posture:** [approach]
-- **Shadow AI Status:** __ tools found, __ triaged
-- **Agent Boundaries:**
-- **Regulatory Exposure:**
+* Compounding System: Observed signals → recommendation → evidence review → human decision → outcome movement → governed learning.
+* Governance Posture: High-control pilot with evidence fidelity, unsafe-advice, approval, override, shadow-AI, and data-boundary gates before scale.
+* Shadow AI Status: 12 tools / behaviors found; 8 governed or approved after triage; 4 killed.
+* Agent Boundaries: Bounded agents only; observation, inference, recommendation, risk review, approval, routing, and outcome measurement must remain separated.
+* Regulatory Exposure: High for financial-services deployment; Reg BI, FINRA supervision/communications, privacy, model risk, and EU AI Act screening must be handled before production scale.
 
 → Details: [`05-the-guardrails/`](05-the-guardrails/)
 
