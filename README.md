@@ -49,14 +49,11 @@ What we're building, for whom, why now.
 
 ## The Margin (M3)
 
-**Will this make money or bleed it?**
-
-- **Gross Margin (current):**
-- **Gross Margin (AI-adjusted):**
-- **Pricing Model:**
-- **Cascading Strategy:**
-- **Break-even at:**
-
+* Gross Margin (current): N/A — prototype-stage product
+* Gross Margin (AI-adjusted): 83.4% estimated
+* Pricing Model: Hybrid — enterprise platform fee + active-user fee + approved next-best-action allowance + overage
+* Cascading Strategy: 80% non-frontier path / 20% frontier path
+* Break-even at: $39.75 per active user / month before platform fee
 → Details: [`03-the-margin/`](03-the-margin/)
 
 ---
