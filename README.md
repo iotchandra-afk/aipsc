@@ -65,13 +65,13 @@ Why this will not be easy to copy in six months.
 
 ## The Contract (M4)
 
-**Why users will trust a probabilistic system.**
+Why users will trust a probabilistic system.
 
-- **Reliability Target:**
-- **Golden Dataset:** __ rows, __ adversarial
-- **Confidence UX:** [approach]
-- **HITL Architecture:**
-- **Failure Mode Coverage:**
+* Reliability Target: Evidence fidelity ≥99%, approval-path correctness ≥99%, unsafe advice rate 0%, recommendation quality ≥4.2/5 on golden dataset.
+* Golden Dataset: 15 starter rows, 8 adversarial; target is 100 rows before production pilot.
+* Confidence UX: Tiered confidence with evidence strength, source freshness, missing-evidence warnings, and hard stops for unsafe or unevidenced recommendations.
+* HITL Architecture: Five levels from no-review internal summaries to hard-stop blocks for hallucinated evidence, unauthorized advice, or policy conflict.
+* Failure Mode Coverage: Hallucinated evidence, over-inference, unsafe tax/legal/suitability language, stale data, wrong role routing, evidence conflict, drift, and review overload.
 
 → Details: [`04-the-contract/`](04-the-contract/)
 
