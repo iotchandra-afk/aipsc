@@ -35,13 +35,18 @@ What we're building, for whom, why now.
 
 ## The Moat (M2)
 
-**Why this won't get copied in 6 months.**
+Why this will not be easy to copy in six months.
 
-- **Data Flywheel Score:** __/20
-- **Weakest Loop:**
-- **Competitive Position:** [describe axes + placement]
-- **Encroachment Defense:**
-- **Vendor Portability:** Ready / Partial / Locked
+* Product: Relationship Intelligence OS
+* Data Flywheel Score: 12/20
+* Strongest Loop: Domain Context — 4/5
+* Weakest Loop: Preference — 2/5
+* Primary Moat Thesis: The moat is not access to customer, service, marketing, operations, digital, risk, and relationship data. The moat is the proprietary signal created when humans approve, edit, reject, override, and measure AI recommendations inside real relationship workflows.
+* Most Valuable Created Signal: Human approval / edit / reject behavior tied to measurable outcomes.
+* Primary Encroachment Threat: Salesforce Agentforce / Einstein / Data Cloud shipping a native relationship-moment assistant inside CRM and Service Cloud.
+* Portability Score: Partial
+* Kill Switch Summary: The product is strategically portable only if model calls, prompts, retrieval, tools, recommendation logic, evidence logging, human approval, and evals are separated from any single AI provider or workflow platform.
+* 90-Day Defense: Build the preference loop, instrument approval/edit/reject/override behavior, create a retirement-transition eval set, and integrate into Salesforce, ServiceNow, and Microsoft surfaces rather than forcing users into another destination.
 
 → Details: [`02-the-moat/`](02-the-moat/)
 
