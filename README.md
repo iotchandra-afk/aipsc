@@ -93,12 +93,12 @@ What breaks when this scales — and what compounds.
 
 ## The Pitch (M6)
 
-**How you get this funded, shipped, and adopted.**
+How you get this funded, shipped, and adopted.
 
-- **Horizon 1 (Now):**
-- **Horizon 2 (Next):**
-- **Horizon 3 (Bet):**
-- **Board Narrative:** [1-sentence thesis]
-- **Key Metric:**
+* Horizon 1 (Now): Publish the prototype and strategy repo, lock the retirement-transition wedge, define recommendation anatomy, event schema, golden dataset, AI gateway design, and governance owners.
+* Horizon 2 (Next): Run a 90-day controlled validation pilot for retirement-transition next-best actions, preference memory, evidence fidelity, AI margin, and workflow integration.
+* Horizon 3 (Bet): Expand only after wedge proof into beneficiary / estate journeys, campaign-to-service trend intelligence, advisor meeting prep, cross-business journey intelligence, and outcome-indexed pricing.
+* Board Narrative: Relationship Intelligence OS turns fragmented financial-services relationship signals into governed, evidence-backed next-best actions that reduce service friction, improve advisor readiness, and create a compounding workflow moat.
+* Key Metric: Cost per approved next-best action that moves a measurable business outcome.
 
 → Details: [`06-the-pitch/`](06-the-pitch/)
