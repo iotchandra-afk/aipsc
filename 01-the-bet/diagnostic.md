@@ -6,7 +6,7 @@ Product: Relationship Intelligence Copilot for enterprise service and relationsh
 
 Your Role: Product strategy lead / AI product strategist evaluating whether an AI-native intelligence layer can reduce associate effort, improve resolution quality, and surface next-best actions from fragmented CRM, case, workflow, and relationship data.
 
----
+----
 
 ## Scores
 
