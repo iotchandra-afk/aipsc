@@ -26,7 +26,7 @@ What we're building, for whom, why now.
 * Vulnerability Scores: Moat 4/5 · Data 4/5 · Platform 3/5
 * Top Risk: Platform absorption by Salesforce, Microsoft, ServiceNow, or another workflow platform if the product is reduced to a generic AI assistant or dashboard.
 * Confidence: M
-* Prototype: Pending final Lovable publish URL
+* Prototype: * Prototype: [Relationship Intelligence OS prototype](https://relation-graph-os.lovable.app)
 * Kill Criteria: Kill or narrow the bet if users cannot understand the 360-degree signal synthesis, evidence trail, human approval model, and business metric impact within the prototype.
 
 → Details: [`01-the-bet/`](01-the-bet/)
