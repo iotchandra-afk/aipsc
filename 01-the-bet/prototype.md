@@ -22,7 +22,7 @@ Lovable
 
 ## Prototype link
 
-Pending final Lovable publish URL.
+[Relationship Intelligence OS prototype](https://relation-graph-os.lovable.app)
 
 ---
 
